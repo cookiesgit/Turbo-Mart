@@ -3,6 +3,16 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ #contact table{
+	width:88%;
+	margin-right:1%;
+	margin-left:1%;
+	height:30%;}
+#contact table td{
+	width:16%;
+	color:#CCC;
+	font-size:15px;
+	}
 
 body {
     overflow-x: hidden;
