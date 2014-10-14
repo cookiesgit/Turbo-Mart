@@ -126,6 +126,21 @@
     -ms-animation-delay: 30s;
     animation-delay: 30s;
 }
+
+#contect{
+	margin-top:3.75%;
+	margin-left:-0.1%;
+	margin-right:-0.1;
+	width:1500px;
+	height:100px;
+	background-color:#000;
+	}
+#contect h1{
+	margin-top:10px;
+	font-size:20px;
+	}
+
+
 @-webkit-keyframes imageAnimation { 
 	0% {
 	    opacity: 0;
