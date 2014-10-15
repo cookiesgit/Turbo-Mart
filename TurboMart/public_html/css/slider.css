@@ -127,14 +127,7 @@
     animation-delay: 30s;
 }
 
-#contact{
-	margin-top:3.75%;
-	margin-left:-0.1%;
-	margin-right:-0.1;
-	width:1500px;
-	height:100px;
-	background-color:#000;
-	}
+
 
 @-webkit-keyframes imageAnimation { 
 	0% {

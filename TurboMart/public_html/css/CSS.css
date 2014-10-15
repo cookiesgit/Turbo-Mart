@@ -1,0 +1,16 @@
+#Footer{background-color: #CCCCCC; margin-top: 5px ; margin-left: -0.1%; margin-right: -0.1%; height: 75px}
+footer { padding: 500px 0; margin-top: -40%}
+#Footer_h{margin-left: 50px ; margin-top: -10px; font-size: 10px; color: black ; font-family: serif;}
+#middle{text-align: left;margin-left: 80%; margin-right: 80px; margin-top: -45px}
+#middle table{ width: 250px;}
+#middle a{color: #442A8D ; font-size: 15px}
+#button{margin-left: 37.5%; margin-top: -70px;}
+#button ul li{float: left;list-style:none;margin:10px}
+#facebook{background-image: url(../image/f1.png); background-repeat: no-repeat; border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px}
+#facebook:hover{background-image: url(../image/f2.png); background-repeat: no-repeat; border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px} 
+#google{background-image: url(../image/g1.png); background-repeat: no-repeat;border-radius: 100%;border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px}
+#google:hover{background-image: url(../image/g2.png);background-repeat: no-repeat;border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px} 
+#twitter{background-image: url(../image/t1.png); background-repeat: no-repeat; border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px}
+#twitter:hover{background-image: url(../image/t2.png); background-repeat: no-repeat; border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px} 
+#linkedin{background-image: url(../image/i1.png);background-repeat: no-repeat; border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px}
+#linkedin:hover{background-image: url(../image/i2.png); background-repeat: no-repeat; border-radius: 100% ; border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 48px; height: 48px} 
