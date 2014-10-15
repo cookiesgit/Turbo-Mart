@@ -31,7 +31,7 @@
 .cb-slideshow li div {
     z-index: 1000;
     position: absolute;
-    bottom: 50px;
+    bottom: 30px;
     left: 0px;
     width: 100%;
     text-align: center;
@@ -44,10 +44,13 @@
 }
 .cb-slideshow li div h3 {
     font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-    font-size: 160px;
+    font-size: 100px;
     padding: 0 30px;
     line-height: 120px;
+<<<<<<< HEAD
     
+=======
+>>>>>>> parent of fa7ec68... @AT
     color: rgba(255,255,255,0.8);
 }
 .cb-slideshow li:nth-child(1) span { background-image: url(../images/1.jpg) }
@@ -127,6 +130,21 @@
     animation-delay: 30s;
 }
 
+<<<<<<< HEAD
+=======
+#contect{
+	margin-top:3.75%;
+	margin-left:-0.1%;
+	margin-right:-0.1;
+	width:1500px;
+	height:100px;
+	background-color:#000;
+	}
+#contect h1{
+	margin-top:10px;
+	font-size:20px;
+	}
+>>>>>>> origin/master
 
 
 @-webkit-keyframes imageAnimation { 
@@ -353,9 +371,9 @@
 .no-cssanimations .cb-slideshow li span{
 	opacity: 1;
 }
-@media screen and (max-width: 140px) { 
+@media screen and (max-width: 1140px) { 
 	.cb-slideshow li div h3 { font-size: 100px }
 }
-@media screen and (max-width: 60px) { 
+@media screen and (max-width: 600px) { 
 	.cb-slideshow li div h3 { font-size: 50px }
 }
